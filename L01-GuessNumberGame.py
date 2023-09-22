@@ -25,3 +25,4 @@ while True:
     thought_number = random.randint(1, 100)  # Generate a new random number for the next game
 
 print("Thanks for playing!")
+print("Created by TomCODES")
