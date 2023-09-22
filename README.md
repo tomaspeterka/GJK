@@ -7,4 +7,4 @@ My most advanced code🤣:
 	print("Hello, world")
 ```
 
-[Named Link](http://www.gjk.cz "Gymnázium Jana Keplera")
+[Gymnázium Jana Keplera](http://www.gjk.cz "Gymnázium Jana Keplera")
