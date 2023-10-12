@@ -13,6 +13,6 @@ https://github.com/MikulasZelinka/2023-inf-2b
 
 
 ### Troubleshooting :duck: ###
-Chtěl bych poděkovat mé gumové kačence, která mě vždy vyslechla, když jsem si nevěděl rady s nějakým bugem.
+Chtěl bych poděkovat mé gumové kačence, která mě vždy vyslechla, když jsem si nevěděl rady s nějakým bugem, a také panu profesoru Zelinkovi.
 
 
