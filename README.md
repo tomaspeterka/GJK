@@ -12,7 +12,7 @@ https://github.com/MikulasZelinka/2023-inf-2b
 
 
 
-# Troubleshooting :duck: #
+### Troubleshooting :duck: ###
 Chtěl bych poděkovat mé gumové kačence, která mě vždy vyslechla, když jsem si nevěděl rady s nějakým bugem.
 
 
