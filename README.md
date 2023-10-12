@@ -8,7 +8,7 @@ My most advanced code🤣:
 ```
 
 Odkaz na zápisky z hodin:
-](https://github.com/MikulasZelinka/2023-inf-2b)
+https://github.com/MikulasZelinka/2023-inf-2b
 [Gymnázium Jana Keplera](http://www.gjk.cz "Gymnázium Jana Keplera")
 
 
