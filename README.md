@@ -17,13 +17,13 @@ https://github.com/MikulasZelinka/2023-inf-2b
 ```
 ```html
 	<!DOCTYPE html>
-<html>
- <head>
- </head>
- <body>
-   <h1>Hello World<h1>
- </body>
-</html>
+	<html>
+	   <head>
+	   </head>
+ 	   <body>
+	      <h1>Hello World<h1>
+ 	   </body>
+	</html>
 ```
 
 
