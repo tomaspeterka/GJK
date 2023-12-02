@@ -4,17 +4,21 @@ Projects from lessons of Computer Science on GJK.
 Odkaz na zápisky z hodin:
 https://github.com/MikulasZelinka/2023-inf-2b
 
-### My most advanced code🤣: 
+### My most advanced codes🤣: 
 
+#### Python
 ```python
 	print("Hello, world")
 ```
+#### Swift
 ```swift
 	println('Hello World');
 ```
+#### Javascript
 ```javascript
 	console.log("Hello World");
 ```
+#### HTML
 ```html
 	<!DOCTYPE html>
 	<html>
