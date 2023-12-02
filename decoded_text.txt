@@ -1,0 +1,17 @@
+Dobre rano, doporucuju napsat si na dekodovani po radcich program,
+protoze jinak budete muset porad dokola
+opakovat stale tu stejnou cinnost.
+A koho by bavilo zas a znovu
+kopirovat a vkladat nejaky text?
+No, tak jestli to porad delate rucne,
+sup ke klavesnici a programujte.
+V Pythonu staci napriklad pouzit splitlines() a base64.b64decode().
+Ted uz to urcite vsichni ctete jako vystup programu, ze jo?
+Pokud to tak delate od zacatku, tak vam gratuluju!
+A pokud ne, tak mate posledni sanci to napravit,
+protoze posledni radek teto zpravy uz tak snadno rucne neprectete.
+Je zakodovany opakovane dvaatricetkrat (cislem: 32) a obsahuje hlavni sdeleni teto zpravy,
+takze se stejne bez programu - doufam - neobejdete.
+Vazne, prosim, uz prestante plytvat svym casem a radsi si to naprogramujte!
+Pristi tyden nebudu ve skole a (zbytek se schovava na poslednim radku):
+Zadani na dalsi hodinu (a soucasne ukol z posledni hodiny) najdete nejpozdeji 8.10. v Classroomu. Bude stacit vse odevzdat do pondeli 16.10. (vcetne). Mejte se krasne!
