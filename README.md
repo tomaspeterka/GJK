@@ -18,6 +18,14 @@ https://github.com/MikulasZelinka/2023-inf-2b
 ```javascript
 	console.log("Hello World");
 ```
+#### C
+```c
+	#include <stdio.h>
+	int main() {
+	   printf("Hello, World!");
+	   return 0;
+	}
+```
 #### HTML
 ```html
 	<!DOCTYPE html>
