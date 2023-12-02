@@ -9,6 +9,23 @@ https://github.com/MikulasZelinka/2023-inf-2b
 ```python
 	print("Hello, world")
 ```
+```swift
+	println('Hello World');
+```
+```javascript
+	console.log("Hello World");
+```
+```html
+	<!DOCTYPE html>
+<html>
+ <head>
+ </head>
+ <body>
+   <h1>Hello World<h1>
+ </body>
+</html>
+```
+
 
 
 
